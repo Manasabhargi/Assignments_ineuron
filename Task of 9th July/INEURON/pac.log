@@ -1,0 +1,20 @@
+name 'ds' is not defined
+Traceback (most recent call last):
+  File "D:\ineuron\PycharmProjects\Task of 9th July\INEURON\package.py", line 8, in <module>
+    obj1 = ds()
+NameError: name 'ds' is not defined
+name 'ds' is not defined
+Traceback (most recent call last):
+  File "D:\ineuron\PycharmProjects\Task of 9th July\INEURON\package.py", line 8, in <module>
+    obj1 = ds()
+NameError: name 'ds' is not defined
+name 'ds' is not defined
+Traceback (most recent call last):
+  File "D:\ineuron\PycharmProjects\Task of 9th July\INEURON\package.py", line 8, in <module>
+    obj1 = ds()
+NameError: name 'ds' is not defined
+name 'obds' is not defined
+Traceback (most recent call last):
+  File "D:\ineuron\PycharmProjects\Task of 9th July\INEURON\package.py", line 9, in <module>
+    obds.course_ds()
+NameError: name 'obds' is not defined

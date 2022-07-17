@@ -1,0 +1,15 @@
+Internship for the period of 1 year
+Affiliated to ineuron
+There are two types of class:A, B
+There are 200+ courses available
+Machine Learning
+Certificate issued for Intern Manasa
+Blog name is : ML
+Abstract methos overirded
+obj9 is instance of class ABCclass    True
+Hi
+name 'ds' is not defined
+Traceback (most recent call last):
+  File "D:\ineuron\PycharmProjects\Task of 9th July\INEURON\package.py", line 8, in <module>
+    obj1 = ds()
+NameError: name 'ds' is not defined
